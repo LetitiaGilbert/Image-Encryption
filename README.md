@@ -16,8 +16,8 @@ Decryption: Apply the same XOR or reverse the swaps.
 How to use:
 
 Install Pillow and numpy if you don’t have them:
-pip install pillow numpy
-pip install Pillow
+>pip install pillow numpy
+>pip install Pillow
 
 Put your image in the same folder or provide full path.
 Run the script.
