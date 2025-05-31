@@ -17,6 +17,7 @@ How to use:
 
 Install Pillow and numpy if you don’t have them:
 >pip install pillow numpy
+
 >pip install Pillow
 
 Put your image in the same folder or provide full path.
