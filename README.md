@@ -1,5 +1,5 @@
 # Image-Encryption
- A Python image encryption/decryption tool using pixel manipulation
+A Python image encryption/decryption tool using pixel manipulation
 
 This is a Python image encryption/decryption tool which uses pixel manipulation. It will:
 1. Load an image
